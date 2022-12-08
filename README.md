@@ -1,1 +1,1 @@
-# GTM_WEB_SDK
+Web SDK integration through GTM
